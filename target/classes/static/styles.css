@@ -1,3 +1,21 @@
 h1{
-    color:aqua;
+    color:rgb(243, 9, 9);
+}
+.navbar{
+    border: 2px solid black;
+    padding:20px;
+    text-align: center; 
+}
+.navbar a{
+    margin:50px;
+    text-decoration: none;
+    color:rgb(143, 139, 140);
+    font-size:20px;
+}
+.navbar a:hover{
+    color:rgb(130, 14, 148);
+}
+body{
+    margin:0px;
+    background-color: rgb(139, 232, 189);
 }

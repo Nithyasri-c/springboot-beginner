@@ -9,7 +9,7 @@ h1{
 .navbar a{
     margin:50px;
     text-decoration: none;
-    color:rgb(41, 5, 139);
+    color:rgb(0, 0, 0);
     font-size:20px;
 }
 .navbar a:hover{
@@ -34,4 +34,15 @@ body{
 .card img{
     width:100%;
     
+}
+.card button{
+    width:200px;
+    padding:8px;
+    margin-bottom:20px;
+    border-radius: 10px;
+    cursor:pointer;
+}
+.card button:hover{
+    background-color: rgb(130, 14, 148);
+    color:white;
 }
